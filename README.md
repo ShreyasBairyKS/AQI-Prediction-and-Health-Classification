@@ -26,7 +26,3 @@ It leverages real-world air pollution data and provides insights through **visua
 | Deployment UI   | Streamlit |
 | Model Persistence | Joblib |
 
----
-
-## 📂 Project Structure
-
