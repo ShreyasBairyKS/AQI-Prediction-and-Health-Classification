@@ -16,7 +16,7 @@ It leverages real-world air pollution data and provides insights through **visua
 ---
 
 ## 🛠️ Tech Stack
-
+    
 | Component       | Tools/Frameworks |
 |-----------------|------------------|
 | Language        | Python 3 |
