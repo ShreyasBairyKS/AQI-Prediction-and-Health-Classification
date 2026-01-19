@@ -2,7 +2,7 @@
 
 This project predicts the **Air Quality Index (AQI)** using machine learning and classifies its impact on **human health**.  
 It leverages real-world air pollution data and provides insights through **visualizations** and an **interactive dashboard**.
-
+  
 ---
 
 ## ✨ Features
