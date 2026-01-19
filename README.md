@@ -4,7 +4,7 @@ This project predicts the **Air Quality Index (AQI)** using machine learning and
 It leverages real-world air pollution data and provides insights through **visualizations** and an **interactive dashboard**.
   
 ---
-
+  
 ## ✨ Features
 
 - 📊 **AQI Prediction** using Random Forest Regressor  
