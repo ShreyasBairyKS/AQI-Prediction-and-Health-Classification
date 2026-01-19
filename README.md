@@ -12,7 +12,7 @@ It leverages real-world air pollution data and provides insights through **visua
 - 📈 **Data Visualizations** for pollutants (CO, NO₂, SO₂, PM2.5, PM10, O₃)   
 - 🌐 **Streamlit Dashboard** for user-friendly interaction  
 - 🔎 **Model Comparison** and evaluation metrics    
-
+  
 ---
 
 ## 🛠️ Tech Stack
